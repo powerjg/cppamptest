@@ -21,7 +21,7 @@ namespace cppamptest
 
 		const int M = 1024;
 		const int N = 1024;
-		const int W = 512;
+		const int W = 1024;
 
 		void Button_Click_CPU(Platform::Object^ sender, Windows::UI::Xaml::RoutedEventArgs^ e);
 		void Button_Click_ACC(Platform::Object ^ sender, Windows::UI::Xaml::RoutedEventArgs ^ e);
